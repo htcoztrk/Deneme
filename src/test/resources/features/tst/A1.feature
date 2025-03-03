@@ -1,4 +1,4 @@
-Feature: A101
+Feature: A1
 
   Background:
     * url 'https://sosp.a101.com.tr/api'
